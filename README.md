@@ -1,1 +1,1 @@
-# Multi-User-TODO
+To-Do project is an application specially built to keep track of tasks that need to be done.In this you can add the task that are to be done in a descriptive way. Once they are done with their tasks they can also remove them from the list.
